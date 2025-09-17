@@ -1,0 +1,5 @@
+numpy
+scipy
+soundfile
+librosa==0.10.2.post1  # optional but recommended
+ttkbootstrap>=1.10.1    # optional: modernized Tkinter theme
